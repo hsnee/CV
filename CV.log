@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.11.3)  3 JAN 2017 10:13
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.11.3)  3 JAN 2017 10:14
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**Untitled.tex
-(./Untitled.tex
+**CV.tex
+(./CV.tex
 LaTeX2e <2015/01/01>
 Babel <3.9l> and hyphenation patterns for 79 languages loaded.
 (./res.cls
@@ -61,7 +61,7 @@ Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 LaTeX Warning: Unused global option(s):
     [10pt].
 
-No file Untitled.aux.
+No file CV.aux.
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 30.
 LaTeX Font Info:    ... okay on input line 30.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 30.
@@ -187,12 +187,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 12--13
 ) [2] ) 
 Here is how much of TeX's memory you used:
  674 strings out of 493089
- 7763 string characters out of 6134842
+ 7733 string characters out of 6134842
  60950 words of memory out of 5000000
  4180 multiletter control sequences out of 15000+600000
  6951 words of font info for 27 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 29i,8n,26p,314b,309s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 29i,8n,26p,308b,309s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx1
 0.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12
 .pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.p
@@ -201,7 +201,7 @@ b></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb
 ></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
 </usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.
 pfb>
-Output written on Untitled.pdf (2 pages, 97182 bytes).
+Output written on CV.pdf (2 pages, 97182 bytes).
 PDF statistics:
  39 PDF objects out of 1000 (max. 8388607)
  27 compressed objects within 1 object stream
