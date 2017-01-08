@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.11.3)  8 JAN 2017 15:55
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.11.3)  8 JAN 2017 23:31
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -160,7 +160,12 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
 (./posters.tex) (./teaching.tex [1
 
 {/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]) (./awa
-rds.tex) (./summerschools.tex
+rds.tex
+Underfull \hbox (badness 10000) in paragraph at lines 3--4
+
+ []
+
+) (./summerschools.tex
 Underfull \hbox (badness 10000) in paragraph at lines 3--4
 
  []
@@ -220,12 +225,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 4--6
 
  []
 
-
+[2]
 Underfull \hbox (badness 10000) in paragraph at lines 7--9
 
  []
 
-[2]
+
 Underfull \hbox (badness 10000) in paragraph at lines 10--12
 
  []
@@ -258,7 +263,7 @@ b></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb
 </usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb><
 /usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.p
 fb>
-Output written on CV.pdf (3 pages, 106391 bytes).
+Output written on CV.pdf (3 pages, 106602 bytes).
 PDF statistics:
  46 PDF objects out of 1000 (max. 8388607)
  32 compressed objects within 1 object stream
