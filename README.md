@@ -1,5 +1,5 @@
 # CV & Resumé
-I keep and update my CV & Resumé here.
+I keep and update my CV & Resumé here. **Download for a clickable version**
 - [CV](CV.pdf)
 - [Resumé](resume.pdf)
 
